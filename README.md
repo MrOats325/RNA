@@ -4,8 +4,10 @@ For example:
 
 #01
 Input: CGAAGGGGUUUGCCACUCGCCACAGAUCCGCGAUGGCGGGUAUACGCACUCGUA
+
 Output: ArgArgGlyLeuProLeuAlaThrAspProArgTrpArgValTyrAlaLeuVal
 
 #02
 Input: GCCAGCUUCUCAUGA
+
 Output: AlaSerPheSer
